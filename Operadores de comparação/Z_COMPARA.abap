@@ -1,7 +1,7 @@
 REPORT Z_COMPARA.
 
 Data x type Integer.
-Data y Like i.
+Data y Like x.
 
 x = 10.
 y = 20.
