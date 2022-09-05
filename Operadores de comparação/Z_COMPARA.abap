@@ -37,4 +37,17 @@ Else.
   write :/ 'Falso!'.
 EndIf.
 
-Write : 'Exponenciação: ', exp.
+
+"maior ou igual
+if x >= y.
+  write :/ 'Verdadeiro!'.
+Else.
+  write :/ 'Falso!'.
+EndIf.
+
+"menor ou igual
+if x <= y.
+  write :/ 'Verdadeiro!'.
+Else.
+  write :/ 'Falso!'.
+EndIf.
